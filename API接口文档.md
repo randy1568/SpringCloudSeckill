@@ -13,13 +13,7 @@
 **返回参数**
 
 ```json
-result{
-    code:Integer,
-    message:String,
-    data:{
-    id:Long
-},
-}
+id:String
 ```
 
 # order 服务
